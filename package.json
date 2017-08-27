@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/talesluna/web-scraping-cheeriojs-example/issues"
   },
-  "homepage": "https://github.com/talesluna/web-scraping-cheeriojs-example#readme"
+  "homepage": "https://github.com/talesluna/web-scraping-cheeriojs-example#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
 }
