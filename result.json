@@ -1,0 +1,36 @@
+[
+  {
+    "description": "Músicas mais populares",
+    "playlist": [
+      {
+        "artist": "Pink Floyd",
+        "name": "Comfortably Numb",
+        "album": "The Wall",
+        "download": "http://mp3.musiquinhaslegais.com/files/1.mp3"
+      },
+      {
+        "artist": "Radiohead",
+        "name": "Exit Music (for a film)",
+        "album": "Ok Computer",
+        "download": "http://mp3.musiquinhaslegais.com/files/2.mp3"
+      }
+    ]
+  },
+  {
+    "description": "Músicas de filmes",
+    "playlist": [
+      {
+        "artist": "John Williams",
+        "name": "Imperial March (Darth Vader)",
+        "album": "Star Wars: O Império Contra-ataca",
+        "download": "http://mp3.musiquinhaslegais.com/files/3.mp3"
+      },
+      {
+        "artist": "Eurythmics",
+        "name": "Sweet Dreams",
+        "album": "X-Men: Apocalypse - Soundtrack",
+        "download": "http://mp3.musiquinhaslegais.com/files/4.mp3"
+      }
+    ]
+  }
+]
